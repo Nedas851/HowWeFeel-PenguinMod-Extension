@@ -87,3 +87,4 @@ Built using [ExtForge](https://jwklong.github.io/extforge)
 
 > 🎉 Contributions, forks, and feedback are welcome!  
 > You are free to customize the emotion set, visuals, and detection logic for your needs.
+
